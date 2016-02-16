@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./eddasnorrasturlu02hafnuoft_0001.png"; bbox 0 0 2013 3434; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 311 312 356 815">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 311 312 356 815">
+     <span class='ocr_line' id='line_1_1' title="bbox 311 312 356 815; baseline 167.667 -503"><span class='ocrx_word' id='word_1_1' title='bbox 311 312 355 617; x_wconf 57' lang='lat' dir='ltr'>msm-ummsm</span> <span class='ocrx_word' id='word_1_2' title='bbox 313 670 356 815; x_wconf 47' lang='lat' dir='ltr'>„mn-wa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 185 254 307 880">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 185 254 307 880">
+     <span class='ocr_line' id='line_1_2' title="bbox 185 254 307 880; baseline 208.667 -834.667"><span class='ocrx_word' id='word_1_3' title='bbox 185 254 307 880; x_wconf 38' lang='lat' dir='ltr'>32:212:„3:23j.{1}222-:1-{3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 3026 0 3302">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 3026 0 3302">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 3026 0 3302"><span class='ocrx_word' id='word_1_4' title='bbox 0 3026 0 3302; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
